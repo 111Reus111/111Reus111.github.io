@@ -68,30 +68,7 @@
 	      </tr> 
 	 </tfoot>
   </table>
-	     <h2 >Video Collection</h2>
-	  <div >
-	    <figure align="CENTER" >
-	     
-	      <video  width="400" height="300" controls="controls" >
-            <source src="video/1.mp4">
-	      </video>
-		  <video  width="400" height="300" controls="controls" >
-			<source src="video/2.mp4">
-		   </video>
-		   <video  width="400" height="300" controls="controls" >
-			 <source src="video/3.mp4">
-		    </video>
-		    <video  width="400" height="300" controls="controls" >
-			   <source src="video/4.mp4">
-		     </video>
-		    <video  width="400" height="300" controls="controls" >
-				<source src="video/5.mp4">
-			</video>
-			 <video  width="400" height="300" controls="controls" >
-				  <source src="video/6.mp4">
-		      </video>
-			</figure>
-		</div>
+	    
 	   <h2 > Images Collection</h2>
 	<div >
        <figure  align="CENTER"  >
