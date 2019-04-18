@@ -10,7 +10,7 @@
             <h2 align="CENTER"> <small>Professional football player of the club Borussia Dortmund</small></h2>
      </header>
      <figure >
-            <img class="BD" src="images/10.jpg" width="600" height="500" alt="Marco Reus">
+            <img class="BD" src="10.jpg" width="600" height="500" alt="Marco Reus">
             <figcaption>The emblem of football club Borussia Dortmund</figcaption>
      </figure>
      
@@ -95,21 +95,21 @@
 	   <h2 > Images Collection</h2>
 	<div >
        <figure  align="CENTER"  >
-            <img src="images/1.jpg" width="300" height="300" alt="Marco Reus">
+            <img src="1.jpg" width="300" height="300" alt="Marco Reus">
 		     
-		    <img src="images/2.jpg" width="300" height="300" alt="Marco Reus">
+		    <img src="2.jpg" width="300" height="300" alt="Marco Reus">
 
-            <img src="images/3.jpg" width="300" height="300" alt="Marco Reus">
+            <img src="3.jpg" width="300" height="300" alt="Marco Reus">
 
-            <img src="images/5.jpg" width="300" height="300" alt="Marco Reus">
+            <img src="5.jpg" width="300" height="300" alt="Marco Reus">
 
-            <img src="images/6.jpg" width="300" height="300" alt="Marco Reus">
+            <img src="6.jpg" width="300" height="300" alt="Marco Reus">
 
-            <img src="images/7.jpg" width="300" height="300" alt="Marco Reus">
+            <img src="7.jpg" width="300" height="300" alt="Marco Reus">
 
-            <img src="images/8.jpg" width="300" height="300" alt="Marco Reus">
+            <img src="8.jpg" width="300" height="300" alt="Marco Reus">
 
-            <img src="images/9.jpg" width="300" height="300" alt="Marco Reus">
+            <img src="9.jpg" width="300" height="300" alt="Marco Reus">
 
         </figure>
 
