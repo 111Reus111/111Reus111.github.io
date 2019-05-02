@@ -15,7 +15,7 @@
      </figure>
      
      <div>
-     <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MDNqc2tjZ2lhYzFvZGUwZmhxdmhxaXRybWcgdml0YWxpeV95dXJhc0BtYWlsLnVh&amp;tmsrc=vitaliy_yuras%40mail.ua"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_ru.gif"></a>
+    
 	     <h2 > The achievement of Marco Reus</h2>
 	          <ul  class="tb">
 	              <li>Bundesliga Team of the Season: 2011-12, 2012-13, 2013-14, 2014-15, 2015-16</li>
@@ -117,7 +117,9 @@
       </fieldset>
      </form>
 
-	
+<div align="CENTER" >
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MDNqc2tjZ2lhYzFvZGUwZmhxdmhxaXRybWcgdml0YWxpeV95dXJhc0BtYWlsLnVh&amp;tmsrc=vitaliy_yuras%40mail.ua"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_ru.gif"></a>	
+</div>
 		 
     <div align="CENTER" >
 	   <ul>
